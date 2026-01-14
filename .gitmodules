@@ -1,0 +1,3 @@
+[submodule "resources"]
+	path = HackBI-IX-Resources
+	url = https://github.com/HackBI/HackBI-IX-Resources
