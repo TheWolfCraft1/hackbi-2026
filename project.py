@@ -65,7 +65,7 @@ def get_total(food, side1, side2):
 
 #text
 
-occasion = (input("nam?: "))
+occasion = (input("name?: "))
 name = (input("list a price: "))
 
 
@@ -106,7 +106,7 @@ walls.right(90)
 
 
 
-            le()
+
             
 table.penup()
 table.goto(-350,-350)
