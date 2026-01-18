@@ -106,7 +106,7 @@ walls.right(90)
 
 
 
-
+table = trtl.Turtle()
             
 table.penup()
 table.goto(-350,-350)
@@ -128,8 +128,5 @@ table.end_fill()
 #
 
 while True:
-    pass
+    break
 wn.mainloop()
-
-:
-    sleep(1)
